@@ -1,0 +1,1 @@
+This project aims to deliver the most comprehensive implementation of [HTML5 specification](http://www.w3.org/TR/html5/) to the browsers that lacks its support.
